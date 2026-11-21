@@ -17,4 +17,3 @@ finned aluminium heat sink for it and checks that the design works.
 | Design limit | 100 °C |
 | No heat sink | about 260-270 °C |
 
-![Temperature map](figures/temperature_from_nx.png)
